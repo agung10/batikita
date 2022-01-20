@@ -1,0 +1,26 @@
+.main-menu ul li a.active {
+    color: #a14d32;
+}
+
+.main-menu ul li a {
+    color: #c07725;
+}
+
+.main-menu ul li a:hover {
+    color: #a14d32;
+}
+
+.banarright__content span {
+    text-transform: none !important;
+    font-size: 20px !important;
+    font-weight: bold;
+}
+
+.product__update a {
+    background: #a14d32;
+}
+
+.banar-title {
+    text-transform: none !important;
+    color: #f5f5f5;
+}
